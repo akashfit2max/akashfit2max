@@ -20,7 +20,7 @@
 
 ### Glad to see you here! 🤩 &nbsp;
 
-I am a passionate self-taught programmer from INDIA.
+I am a passionate self-taught programmer from INDIA 	🇮🇳
 - 🔭 I’m currently pursuing my Btech From SRM IST Ramapuram
 - 🌱 I’m currently learning Full Stack Web Development
 - 💬 Ask me about anything [here](https://discord.com/channels/@me)
