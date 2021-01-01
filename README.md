@@ -51,8 +51,8 @@
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p align="center">
-<a href="https://akashfit2max.github.io/Pv2/"><img src="https://img.shields.io/badge/-adityavsingh.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/akash-kumar-sahoo-8b5348188/"><img src="https://img.shields.io/badge/-Aditya%20Vikram%20Singh-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
-<a href="mailto:aa4570@srmist.edu.in"><img src="https://img.shields.io/badge/-avsingh@umass.edu-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
-<a href="https://www.instagram.com/akash_k.u.m.a.r/"><img src="https://img.shields.io/badge/-@adityavs__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
+<a href="https://akashfit2max.github.io/Pv2/"><img src="https://img.shields.io/badge/-akashkumar.com-3423A6?style=flat&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/akash-kumar-sahoo-8b5348188/"><img src="https://img.shields.io/badge/-Akash%Kumar%20Sahoo-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:aa4570@srmist.edu.in"><img src="https://img.shields.io/badge/-aa4570@srmist.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://www.instagram.com/akash_k.u.m.a.r/"><img src="https://img.shields.io/badge/-@akashkumar__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
