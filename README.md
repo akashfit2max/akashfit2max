@@ -1,5 +1,5 @@
-<div align="center" width="50">
-<img src="https://im5.ezgif.com/tmp/ezgif-5-56f4b005f727.gif" alt="Welcome!" style="border:20px solid black"/>
+<div align="center" width="300">
+<img src="https://im5.ezgif.com/tmp/ezgif-5-56f4b005f727.gif" alt="Welcome!" width="1000" height="500"/>
 </div>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akash Kumar</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
