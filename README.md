@@ -1,5 +1,12 @@
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akash Kumar</h2>
+<div align="center">
+<h2> 𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞, 𝐟𝐞𝐥𝐥𝐨𝐰 <𝚍𝚎𝚟𝚎𝚕𝚘𝚙𝚎𝚛𝚜/>! <img src="https://github.com/ABSphreak/ABSphreak/blob/master/gifs/Hi.gif" width="30px"></h2>
+</div>
+<div align="center" width="50">
 
+<img src="https://im5.ezgif.com/tmp/ezgif-5-1857ce258ac0.gif" alt="Welcome!" width="300"/>
+
+</div>
+<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akash Kumar</h2>
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
 
 ### 👨🏻‍💻 &nbsp;About Me
