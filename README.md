@@ -1,5 +1,3 @@
-
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/bO2KJwY" data-context="false" ><a href="//imgur.com/a/bO2KJwY"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akash Kumar</h2>
 
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
