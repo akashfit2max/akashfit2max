@@ -1,7 +1,7 @@
 <div align="center" width="300">
 <img src="./assets/logo.gif" alt="Welcome!" width="1000" height="500"/>
 </div>
-<img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/><h2>Hey there! I'm Akash Kumar</h2>
+ <h1 align="center"><b>Hello there, I'm Akash</b></h1><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
 
 ### 👨🏻‍💻 &nbsp;About Me
