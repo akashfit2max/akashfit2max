@@ -1,7 +1,8 @@
 <div align="center" width="300">
 <img src="./assets/logo.gif" alt="Welcome!" width="1000" height="500"/>
 </div>
- <h1 align="center"><b>Hello there, I'm Akash</b></h1><img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40' align="left"/>
+ <h1 align="center"><b>Hello there, I'm Akash <img alt="Night Coding" src="./assets/Hand%20Wave.gif" width='40'/></b></h1>
+
 <!-- ## 👋 &nbsp;Hey there! I'm Akash -->
 
 ### 👨🏻‍💻 &nbsp;About Me
@@ -52,3 +53,7 @@
 <a href="mailto:aa4570@srmist.edu.in"><img src="https://img.shields.io/badge/-aa4570@srmist.edu.in-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 <a href="https://www.instagram.com/akash_k.u.m.a.r/"><img src="https://img.shields.io/badge/-@akashkumar__-E4405F?style=flat&logo=Instagram&logoColor=white"/></a>
 </p>
+
+<div align="center">
+<h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
+</div><img src="https://github.com/punitkmryh/punitkmryh/blob/master/wave.svg" />
